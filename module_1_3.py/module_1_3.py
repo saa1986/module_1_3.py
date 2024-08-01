@@ -5,5 +5,4 @@ print(age)
 Nev_age = age+1
 print(Nev_age)
 name =  "is student:"
-print(name)
-print(5==5)
+print(name , 5==5)
